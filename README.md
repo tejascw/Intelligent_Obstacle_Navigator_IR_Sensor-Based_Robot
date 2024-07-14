@@ -1,14 +1,15 @@
 # Obstacle Detection and Navigation Robot
 # Video Table
 
-| Test   | Observation |
-|----------|---------------|
-| <img align="right" alt="coding" width="200" hight="400" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/WHITE_SURFACE_OBJECT2-ezgif.com-video-to-gif-converter.gif"> | |
-| <img align="right" alt="coding" width="200" hight="400" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/BLACK_OBJECT1-ezgif.com-video-to-gif-converter.gif"> |   |
-| <img align="right" alt="coding" width="200" hight="300" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/GLASS_OBJECT-ezgif.com-video-to-gif-converter.gif">   | Description for Video 3 |
-| <img align="right" alt="coding" width="200" hight="300" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/METAL_OBJECT-ezgif.com-video-to-gif-converter.gif">  | Description for Video 4 |
-| <img align="right" alt="coding" width="300" hight="500" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/RUBBER_OBJECT-ezgif.com-video-to-gif-converter.gif">  | Description for Video 5 |
-| <img align="right" alt="coding" width="300" hight="500" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/WOOD_OBJECT-ezgif.com-video-to-gif-converter.gif">   | Description for Video 6 |
+| Test   | Observation |        |     
+|--------|---------------|---------------|
+| <img align="right" alt="coding" width="300" hight="400" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/WHITE_SURFACE_OBJECT2-ezgif.com-video-to-gif-converter.gif"> | <img align="right" alt="coding" width="300" hight="400" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/BLACK_OBJECT1-ezgif.com-video-to-gif-converter.gif"> | <img align="right" alt="coding" width="300" hight="300" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/GLASS_OBJECT-ezgif.com-video-to-gif-converter.gif">
+|                 |                 |                 |
+|                 |                 |                 |
+| Test   | Observation |        |     
+| <img align="right" alt="coding" width="200" hight="300" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/METAL_OBJECT-ezgif.com-video-to-gif-converter.gif"> |<img align="right" alt="coding" width="300" hight="500" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/RUBBER_OBJECT-ezgif.com-video-to-gif-converter.gif">| <img align="right" alt="coding" width="300" hight="500" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/WOOD_OBJECT-ezgif.com-video-to-gif-converter.gif"> | <img align="right" alt="coding" width="300" hight="500" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/WOOD_OBJECT-ezgif.com-video-to-gif-converter.gif"> |
+|                 |                 |                 |
+|                 |                 |                 |
 
 ## Project Overview
 
