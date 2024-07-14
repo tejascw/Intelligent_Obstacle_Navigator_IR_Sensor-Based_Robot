@@ -17,7 +17,7 @@ This project involves the design and development of an obstacle detection and na
 
 ## Table of Contents
 
-- [Introduction](Introduction)
+- [Introduction](#introduction)
 - [System Requirements and Specifications](notion://www.notion.so/Rough-Work-65d1028c62dc474b89b225765077fc3d?pvs=94#system-requirements-and-specifications)
 - [Methodology](notion://www.notion.so/Rough-Work-65d1028c62dc474b89b225765077fc3d?pvs=94#methodology)
 - [Implementation](notion://www.notion.so/Rough-Work-65d1028c62dc474b89b225765077fc3d?pvs=94#implementation)
