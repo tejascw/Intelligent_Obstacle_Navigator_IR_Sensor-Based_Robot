@@ -1,5 +1,10 @@
 # Obstacle Detection and Navigation Robot
 
+| Resumes | Cover letters |
+| --- | --- |
+| ![Resume](https://github.com/user-attachments/assets/15fdfe8a-6985-4155-a2f2-1ba09856e008) | ![Cover Letter](assets/images/coverletter.png) |
+| ![Resume 2](assets/images/resume2.png) | ![Cover Letter 2](assets/images/coverletter2.png)|
+
 ## Project Overview
 
 This project involves the design and development of an obstacle detection and navigation robot. The robot is equipped with infrared (IR) sensors to detect obstacles and navigate through its environment by avoiding them. The project encompasses hardware assembly, sensor integration, and software programming to achieve autonomous navigation.
