@@ -1,21 +1,14 @@
 # Obstacle Detection and Navigation Robot
 # Video Table
 
-| Videos   | Description   |
+| Test   | Observation |
 |----------|---------------|
-| [Video 1]() | Description for Video 1 |
-| [Video 2]() | Description for Video 2 |
-| [Video 3]() | Description for Video 3 |
-| [Video 4]() | Description for Video 4 |
-| [Video 5]() | Description for Video 5 |
-| [Video 6]() | Description for Video 6 |
-
-
-
-| Resumes | Cover letters |
-| --- | --- |
-| <img align="right" alt="coding" width="200" hight="400" src="https://github.com/user-attachments/assets/15fdfe8a-6985-4155-a2f2-1ba09856e008">| <img align="right" alt="coding" width="400" src="https://github.com/tejascw/Asset-/blob/main/mechanical%20engineer.gif"> |
-| ![Resume 2](assets/images/resume2.png) | ![Cover Letter 2](assets/images/coverletter2.png)|
+| <img align="right" alt="coding" width="200" hight="400" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/WHITE_SURFACE_OBJECT2-ezgif.com-video-to-gif-converter.gif"> | |
+| <img align="right" alt="coding" width="200" hight="400" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/BLACK_OBJECT1-ezgif.com-video-to-gif-converter.gif"> |   |
+| <img align="right" alt="coding" width="200" hight="300" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/GLASS_OBJECT-ezgif.com-video-to-gif-converter.gif">   | Description for Video 3 |
+| <img align="right" alt="coding" width="200" hight="300" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/METAL_OBJECT-ezgif.com-video-to-gif-converter.gif">  | Description for Video 4 |
+| <img align="right" alt="coding" width="300" hight="500" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/RUBBER_OBJECT-ezgif.com-video-to-gif-converter.gif">  | Description for Video 5 |
+| <img align="right" alt="coding" width="300" hight="500" src="https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/ASSET/WOOD_OBJECT-ezgif.com-video-to-gif-converter.gif">   | Description for Video 6 |
 
 ## Project Overview
 
