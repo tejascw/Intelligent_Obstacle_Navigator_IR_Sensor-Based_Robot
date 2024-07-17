@@ -62,16 +62,15 @@ The Arduino is programmed using the Arduino IDE. The code involves:
 - Reading sensor data
 - Calculating errors based on sensor readings
 - Adjusting motor speeds and directions to avoid obstacles
-|  **Flow-chart**      |  **Code** |             
+  
+|  **Flow-chart**      |          
 |--------|--------|
-| <img align="centre" alt="coding" width="500" hight="500" src="https://github.com/user-attachments/assets/2f229a44-5d1b-4269-880a-75688ad1b721"> |  |
+| <img align="centre" alt="coding" width="500" hight="500" src="https://github.com/user-attachments/assets/2f229a44-5d1b-4269-880a-75688ad1b721"> |  
 
 
 
 ## Testing_and_Debugging
-
-The robot is tested in different environments to ensure reliable obstacle detection. Various materials (wood, metal, glass, etc.) are used to test the response time and detection range of the IR sensors.
-
+The robot was tested in dark environments to ensure reliable obstacle detection with various objects, including white surfaces, black surfaces, wood, metal, and glass. These tests aimed to evaluate the response time and detection range of the IR sensors for each specific object.
 ## Testing_&_Observation
 
 | Testing with White Surface Object  | Testing with Black Surface Object |Testing with Glass Object |     
