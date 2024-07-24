@@ -16,6 +16,7 @@ This project involves the design and development of an obstacle detection and na
     - [Logical Programming](#logical_programming)
 - [Testing and Debugging](#testing_and_debugging)
 - [Results](#results)
+- [Project Report](Project_Report )
 - [Applications and Future Scope](#applications_and_future_scope)
 
 ## Introduction
@@ -63,9 +64,9 @@ The Arduino is programmed using the Arduino IDE. The code involves:
 - Calculating errors based on sensor readings
 - Adjusting motor speeds and directions to avoid obstacles
   
-|  **Flow-chart**      |          
-|--------|--------|
-| <img align="centre" alt="coding" width="500" hight="500" src="https://github.com/user-attachments/assets/2f229a44-5d1b-4269-880a-75688ad1b721"> |  
+|  **Flow-chart**      |    **CODE** |
+|--------|-------|
+| <img align="centre" alt="coding" width="500" hight="500" src="https://github.com/user-attachments/assets/2f229a44-5d1b-4269-880a-75688ad1b721"> |     [CODE](https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/Code.ino) |
 
 
 
@@ -87,6 +88,8 @@ The robot was tested in dark environments to ensure reliable obstacle detection 
 ## Results
 
 The robot successfully navigates its environment by detecting and avoiding obstacles. It demonstrates reliable performance in both bright and dark conditions.
+## Project_Report 
+[Report](https://github.com/tejascw/Intelligent_Obstacle_Navigator_IR_Sensor_Based_Robot/blob/main/Final_Obstacle_detection_robot_2.pdf)
 
 ## Applications_and_Future_Scope
 
